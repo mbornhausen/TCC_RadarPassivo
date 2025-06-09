@@ -2,6 +2,8 @@
 Arquivos e projetos desenvolvidos como parte do Trabalho de Conclusão de Curso (TCC), intitulado "Sistema de detecção de movimentação de encostas utilizando radar passivo e SDR". Este repositório inclui os códigos e fluxogramas e demais recursos utilizados na construção e validação do sistema proposto.
 
 
+O fluxograma final pode ser visto no pdf: 
+
 [doppler_pluto_rtl_tcc.pdf](https://github.com/user-attachments/files/20662243/doppler_pluto_rtl_tcc.pdf)
 
 
